@@ -1,0 +1,1 @@
+<template><footer>© 2025 EVIIR</footer></template>
